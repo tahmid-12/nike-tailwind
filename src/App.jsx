@@ -1,5 +1,5 @@
-import { CustomerReview, Footer, Hero, Navbar, PopularProducts, Services, SpecialOffers, Subscribe, SuperQuality } from "./components";
-
+import { CustomerReview, Footer, Hero, PopularProducts, Services, SpecialOffers, Subscribe, SuperQuality } from "./sections";
+import { Navbar } from "./sections";
 
 export default function App() {
   return (
